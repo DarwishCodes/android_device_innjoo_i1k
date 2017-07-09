@@ -1,14 +1,14 @@
-Device tree for Innjoo i1k
+# Device tree for Innjoo i1k LineageOS 13
 
-# Contribuers:-
+# Contribuers:
 * Aditya  Kumar (adi766)
 * Hamada Jimmy (GMCadiom)
 
-# Thanks to:-
+# Thanks to:
 * ferhung-mtk
 * fire855
 
-# Working:-
+# Working:
 * Dual SIM
 * WiFI
 * Bluetooth 
@@ -23,7 +23,7 @@ Device tree for Innjoo i1k
 * Tethering (Wifi, Bluetooth and USB)
 * Etc.
 
-# Issues:-
+# Issues:
 * Stock Camera Can't capture pictures and record video.
 * Bluetooth headsets not discovered nor connecting.
 
