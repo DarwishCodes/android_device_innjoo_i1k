@@ -9,7 +9,7 @@ $(call inherit-product, device/innjoo/i1k/device_i1k.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := i1k
-PRODUCT_NAME := cm_i1k
+PRODUCT_NAME := lineage_i1k
 PRODUCT_BRAND := innjoo
 PRODUCT_MODEL := i1k
 PRODUCT_MANUFACTURER := innjoo
